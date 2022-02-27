@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A late and true relation from Ireland of the vvarlike and bloody proceedings of the rebellious papists in that kingdome, from Novemb. 1. to this present, 1641. VVherein is declared their barbarous and cruell actions, the great and many outrages and robberies committed by them in divers provinces of that kingdome. With the entrance of some English and Scottish forces into the north parts of Ireland, under these commanders, viz. The Lord Grandison, the Lord Chichester, the Lord Conway, the Lord Crumwell. And the late skirmishes and conflicts that hath beene betweene them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88761</idno>
+            <idno type="STC">Wing L541</idno>
+            <idno type="STC">Thomason E176_16</idno>
+            <idno type="STC">ESTC R14989</idno>
+            <idno type="EEBO-CITATION">99859775</idno>
+            <idno type="PROQUEST">99859775</idno>
+            <idno type="VID">157097</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157097)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E176[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A late and true relation from Ireland of the vvarlike and bloody proceedings of the rebellious papists in that kingdome, from Novemb. 1. to this present, 1641. VVherein is declared their barbarous and cruell actions, the great and many outrages and robberies committed by them in divers provinces of that kingdome. With the entrance of some English and Scottish forces into the north parts of Ireland, under these commanders, viz. The Lord Grandison, the Lord Chichester, the Lord Conway, the Lord Crumwell. And the late skirmishes and conflicts that hath beene betweene them.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157097:1"/>
+            <!-- PDF PAGE 40 -->
+            <pb facs="tcp:157097:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <p>A LATE AND TRVE RELATION FROM IRELAND: Of the VVarlike and bloody Procee<g ref="char:EOLhyphen"/>dings of the Rebollious Papiſts in that Kingdome, from <hi>Novemb.</hi> 1. to this preſent, 1641.</p>
+            <p>VVherein is declared their barbarous and cruell Actions, the great and many outrages and Robberies committed by them in divers Provinces of that Kingdome.</p>
+            <p>With the entrance of ſome <hi>Engliſh</hi> and <hi>Scottiſh</hi> For<g ref="char:EOLhyphen"/>ces into the North parts of <hi>Ireland,</hi> under theſe Commandes, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>The Lord <hi>Grandiſon,</hi>
+               </item>
+               <item>The Lord <hi>Chicheſter,</hi>
+               </item>
+               <item>The Lord <hi>Conway,</hi>
+               </item>
+               <item>The Lord <hi>Crumwell.</hi>
+               </item>
+            </list>
+            <p>And the late Skirmiſhes and Conflicts that hath beene be<g ref="char:EOLhyphen"/>tweene them.</p>
+            <p>LONDON, Printed for IOHN THOMAS, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:157097:2"/>
+            <!-- PDF PAGE 41 -->
+            <pb facs="tcp:157097:2"/>
+            <!-- PDF PAGE 41 -->
+            <head>The Copy of a Letter ſent from <hi>Dublin, Novemb.</hi> 3. 1641.</head>
+            <head type="sub">Concerning the late proceedings of the Re<g ref="char:EOLhyphen"/>bels in <hi>Jreland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the laſt time I writ unto you, there hath not been any Towne taken by the Rebels, but <hi>Dundalke,</hi> yet there are, and have been divers Rob<g ref="char:EOLhyphen"/>beries done and committed in the Countrey, this day about 10 of the clocke, there marched 1000 foote with compleat Armes, and part of two Troopes of horſe towards <hi>Drogheda</hi> with 4. Field peeces, and we heare that the <hi>Scots</hi> in the North, are marching to<g ref="char:EOLhyphen"/>wards the <hi>Neury,</hi> with 5000 foote well armed, and 4. Troopes of horſe, <hi>viz.</hi> The Lord <hi>Grandiſons,</hi> the Lord <hi>Chicheſters,</hi> the Lord <hi>Conwayes,</hi> and the Lord <hi>Crumwells,</hi> ſo that we hope we are here all ſafe, now the danger is paſt the Army being on foote.</p>
+            <closer>
+               <dateline>Dated at Dublin, <date>Novemb. 3. 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account_of_events">
+            <pb facs="tcp:157097:3"/>
+            <!-- PDF PAGE 42 -->
+            <head>A True Relation of the laſt weekes proceedings in ſeverall Provinces in the Kingdome of <hi>Ireland,</hi> 1641.</head>
+            <p>ON Saturday being the 6. of <hi>Novemb.</hi> a par<g ref="char:EOLhyphen"/>ty of the Rebels were diſcovered by my Lord <hi>Grandiſon,</hi> marching towards a Towne cal<g ref="char:EOLhyphen"/>led <hi>Grage,</hi> with an intent to plunder it, but forces be<g ref="char:EOLhyphen"/>ing ſent under the command of my Lord <hi>Grandiſon,</hi> in<g ref="char:EOLhyphen"/>tercepted their paſſage, being in ambuſh in a Wood called the Poal Mountye, a dangerous and obſcure paſ<g ref="char:EOLhyphen"/>ſage, through which they were to march, for the more privacy, but finding that they were diſcovered, and that my Lord <hi>Grandiſon</hi> was to ſtrong for them, then they ſeemed to retreate, thinking by that meanes to draw him out of the Wood, but finding that their hopes were fruſtrate, they fell on very deſperately, to force a paſſage, when ſtraight the Earle of <hi>Barrimore,</hi> a Pro<g ref="char:EOLhyphen"/>teſtant and noble Gentleman, having raiſed ſome 500 horſe and foot of his Tenants, and friends for the Kings ſervice and his owne deſence, and being marcht abroad to ſee if he could meet with any of the Rebels, which he heard were diſperſt abroad in many parts of that County, happened by chance to come into the hearing of their warlike Muſicke, whoſe noble ſpirit ſoone prompted him to ingage himſelfe in ſo juſt a quarrell,
+<pb facs="tcp:157097:3"/>
+               <!-- PDF PAGE 42 -->for meeting with ſome of my Lord <hi>Grandiſons</hi> Soul<g ref="char:EOLhyphen"/>diers that were forct to fly, the Rebels being too ſtrong for them, he was enformed of every particular, who in<g ref="char:EOLhyphen"/>ſtantly Rallyed his Troopes, and gave a fierce alarum, the Rebels ſeeing theſe unexpected forces, ſtraight be<g ref="char:EOLhyphen"/>gan to fly, moſt of their foot were ſlaine, which were a<g ref="char:EOLhyphen"/>bout 800. onely their horſe eſcaped the ſlaughter that were there alſo, then the Proteſtant parties with thoſe two noble Lords marcht unto <hi>Grage,</hi> taking order to ſecure the Towne, leaſt that the Rebels in the night ſhould come and plunder, and deſtroy it, likewiſe on Tueſday the 9. day of <hi>Novemb.</hi> there was a skirmiſh betweene a party of the Proteſtants forces, which ga<g ref="char:EOLhyphen"/>thered together in <hi>Dungarvin,</hi> who hearing of ſome of the Rebels that were met upon a Heath neere adjoy<g ref="char:EOLhyphen"/>ning, with intent to ſet upon ſome Village neere unto it, theſe forces iſſued out, and flew ſome 50 of them, putting the reſt to flight, likewiſe many outrages more are daily committed by the Rebels in ſeverall places of the Kingdome, which I cannot fully relate as yet, one<g ref="char:EOLhyphen"/>ly this, the troubles of this Kingdome are great, the multitude of our enemies daily increaſe, our Forces are but ſmall, but there hath 500 lately landed out of <hi>Scotland,</hi> and our Forces and theirs are joyned, God I beſeech him give them a happy Victory.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:157097:4"/>
+            <!-- PDF PAGE 43 -->
+            <head>A Proclamation made by the Lords, Iuſtices, and Counce<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l in the Caſtle of <hi>Dublin.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>VVilliam Parſons,</item>
+                     <item>John Burlacie.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>WHereas a Petition hath beene preferd vnto Us by divers Lords and Gentlemen of the <hi>Engliſh</hi> Pale, in the behalfe of them<g ref="char:EOLhyphen"/>ſelves and the reſt of the Pale, and others of the old Engliſh of this kingdome, ſhewing that whereas a late Conſpiracy of treaſon is diſcovered, of ill affected per<g ref="char:EOLhyphen"/>ſons of the old Jriſh, and that therupon, a Proclamation was publiſhed by vs, wherin among other things, it is declared that the ſayd Conſpiracy was perpetrated by the old Jriſh Papiſts, without diſtinction of any, and they doubting by thoſe generall words of Iriſh Papiſts, they might ſeeme to be involved, though they declare themſelves confident, that did not intend to include them therein, in regard they are none of the old Jriſh nor of their faction, or Confederacy, but they are altoge<g ref="char:EOLhyphen"/>ther averſe and oppoſite to all their deſignes, and all o<g ref="char:EOLhyphen"/>thers of like condation, We do therefore, to give them full ſatisfaction, hereby declare and publiſh, to all his Majeſties good Subiects in this kingdome, that by the words Jriſh Papiſts, we intended onely ſuch of the old meere Jriſh, in the Province of <hi>Vlſter,</hi> as have plotted, and contrived, and beene Actors in this Con<g ref="char:EOLhyphen"/>ſpiracy
+<pb facs="tcp:157097:4"/>
+               <!-- PDF PAGE 43 -->and others who adhere to them, and that wee did not any way intend, or meane thereby any of the old <hi>Engliſh</hi> of the Pale, nor of any other parts of this Kingdome, we being well aſſured of their fidelities to the Crowne, and having experience of the good af<g ref="char:EOLhyphen"/>fection and ſervice of their Anceſtors in former times of danger and Rebellion, and we further require all his Majeſties loving Subjects, whether Proteſtants, or Pa<g ref="char:EOLhyphen"/>piſts, to forbeare upbraiding matter of Religion, one againſt the other, and that upon paine of his Majeſties indignation, Given at his Majeſties Caſtle of <hi>Dub<g ref="char:EOLhyphen"/>lin, November</hi> 4. 1641.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>R. Rantlagh,</item>
+                     <item>R. Dillon,</item>
+                     <item>Anth.Midenſis,</item>
+                     <item>Ad. Loſ<g ref="char:EOLhyphen"/>tus,</item>
+                     <item>Geo. Shurley,</item>
+                     <item>Gerrard Lowther,</item>
+                     <item>L. Temple,</item>
+                     <item>Fr. VVilloughby,</item>
+                     <item>Jam. VVare.</item>
+                  </list>
+               </signed>
+God ſave the King.</closer>
+            <pb facs="tcp:157097:5"/>
+            <!-- PDF PAGE 44 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:157097:5"/>
+            <!-- PDF PAGE 44 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:157097:6"/>
+            <!-- PDF PAGE 45 -->
+            <head>Another Letter dated at the Caſtle of <hi>Dublin, Novemb.</hi> 5. 1641. ſent by the Lord chiefe Juſtices of <hi>Ireland.</hi>
+            </head>
+            <p>THe Calamity of the <hi>Engliſh</hi> and Proteſtants in <hi>Ireland</hi> is great, and the miſchiefe that the Rebels have done, are many, and ſo much the more ought to be ſeverely executed, by reaſon of a Proclamation which the Rebels have put out, commanding all thoſe that are either <hi>Engliſh</hi> or Proteſtants, to be gone away, immediately after the publiſhing thereof, or otherwiſe to take what puniſhments the Rebels ſhall inflict up<g ref="char:EOLhyphen"/>on them, and execute with all cruelty, by cutting of the heads of all thoſe that remaine, and by burning their Villages, and putting both man and woman, and child to the Sword, a great number of the Rebels did aſſault <hi>Tredath,</hi> and plundered the Towne, committing many outrages therein; as namely, they entred violent<g ref="char:EOLhyphen"/>ly in a houſe of Dr. <hi>Vſhers</hi> there, now Lord Primate of <hi>Ireland,</hi> and carryed away 4000 l. in plate and mo<g ref="char:EOLhyphen"/>ney, but we hope ſhortly they will be ſuppreſſed, for ſome forces from <hi>Scotland,</hi> is come to aſſiſt us, they are now in the North parts of the Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
